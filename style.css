@@ -1,0 +1,15 @@
+h1{
+    color:red;
+}
+
+.name{
+    color: blue;
+}
+
+.name:hover{
+    text-decoration: line-through;
+}
+
+.pet{
+    color: green;
+}
